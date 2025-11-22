@@ -69,21 +69,48 @@ def policy_iteration(P,gamma=1.0,theta=1e-10):
 
 ## OUTPUT:
 ### 1. Policy, Value function and success rate for the Adversarial Policy
-<img width="536" height="151" alt="image" src="https://github.com/user-attachments/assets/7368e742-ad1d-4501-bc2b-759d43eb592f" />
-<img width="490" height="133" alt="image" src="https://github.com/user-attachments/assets/af687074-2962-40d6-886d-1e5c3b9a6cb4" />
+#### POLICY:
+<img width="738" height="135" alt="image" src="https://github.com/user-attachments/assets/cd9aaad4-7bf4-42cb-97ae-08615f9fea70" />
 
 
+#### STATE VALUE FUNCTION:
+<img width="673" height="133" alt="image" src="https://github.com/user-attachments/assets/7c2c8da1-4939-4df4-8426-d58b8d82c974" />
 
+
+#### SUCCESS:
+<img width="595" height="43" alt="image" src="https://github.com/user-attachments/assets/43b99c97-ab5d-40d1-adda-fc1d26a5d3a9" />
 
 ### 2. Policy, Value function and success rate for the Improved Policy
-<img width="497" height="145" alt="image" src="https://github.com/user-attachments/assets/323bce24-e211-4076-b353-746a67f9eb69" />
-<img width="598" height="28" alt="image" src="https://github.com/user-attachments/assets/a5c68914-b53c-4934-8943-3fcd23264bee" />
+#### POLICY:
+<img width="539" height="136" alt="image" src="https://github.com/user-attachments/assets/0271e0fb-70d9-44b5-8621-0b7a5a0778ec" />
+
+
+#### STATE VALUE FUNCTION:
+<img width="504" height="133" alt="image" src="https://github.com/user-attachments/assets/12cd6259-a3cf-46fd-9ff8-cb19c4b42e98" />
+
+
+#### SUCCESS:
+<img width="648" height="28" alt="image" src="https://github.com/user-attachments/assets/59b46549-83bf-444b-8edc-bae7d0818690" />
+
+
+<img width="413" height="33" alt="image" src="https://github.com/user-attachments/assets/ab6544c9-9a97-45e7-bd1f-d4b9c8cbd43d" />
+
 
 
 ### 3. Policy, Value function and success rate after policy iteration
-<img width="741" height="144" alt="image" src="https://github.com/user-attachments/assets/8e2696bf-7fd2-4bfa-9f02-cb82570e855c" />
-<img width="619" height="30" alt="image" src="https://github.com/user-attachments/assets/7eee594f-6eb5-43f6-b5e0-7ea2a38d8b72" />
+#### POLICY:
+<img width="804" height="133" alt="image" src="https://github.com/user-attachments/assets/66750855-732e-486a-8f97-9446dbb8796e" />
+
+
+#### STATE VALUE FUNCTION:
+<img width="879" height="119" alt="image" src="https://github.com/user-attachments/assets/9bb6ba80-3765-4ad6-92ec-0943cdf1696f" />
+
+
+#### SUCCESS:
+<img width="645" height="32" alt="image" src="https://github.com/user-attachments/assets/38439437-a5a5-4b4f-9ce5-9f7b1c44345e" />
+
+
 
 
 ## RESULT:
-Therefore, policy iteration algorithm to find optimal policy by iteratively maximizing the value function is successfully implemented.
+Thus the program to iterate the policy evaluation and policy improvement is executed successfully.
